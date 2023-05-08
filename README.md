@@ -44,6 +44,7 @@
 <img src ="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" align="center" alt="javascript">
 <img src ="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" align="center" alt="python">
 <img src="https://img.shields.io/badge/C++-%23E34F26.svg?style=for-the-badge&logo=C++&logoColor=white" align="center" alt="C++">
+<img src="https://img.shields.io/badge/C-%23E34F26.svg?style=for-the-badge&logo=C&logoColor=white" align="center" alt="C">
 <br/>
 <br/>
  <img src="https://img.shields.io/badge/Bootstrap-593D88?style=for-the-badge&logo=bootstrap&logoColor=white"  align="center" alt="bootstrap" />
