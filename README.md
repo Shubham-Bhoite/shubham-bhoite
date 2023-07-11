@@ -27,7 +27,7 @@
  
 🎓About Me:
 
-- 👉  I'm currently learning **Cloud Technologies**
+- 👉  I'm currently learning **MERN Stack**
 
 - ✍  Reach me on **<a href="https://www.linkedin.com/in/shubham-bhoite98/" target="_blank" >LinkedIn</a>**
 
