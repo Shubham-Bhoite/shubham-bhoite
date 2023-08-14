@@ -28,7 +28,7 @@
 🎓About Me:
 
 - 👉 I'm currently learning **MERN Stack**
-- 2⭐on HackerRank in python
+- 3⭐on HackerRank in python
 - 3⭐on HackerRank in C
 
 - ✍  Reach me on **<a href="https://www.linkedin.com/in/shubham-bhoite98/" target="_blank" >LinkedIn</a>**
