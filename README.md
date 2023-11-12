@@ -1,7 +1,6 @@
  <p align="center">
-  
- Hii, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <a href="https://www.linkedin.com/in/shubham-bhoite98"> I'm Shubham Bhoite</a>!
-</h1> 
+  Hii, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <a href="https://www.linkedin.com/in/shubham-bhoite98"> I'm Shubham Bhoite</a>
+</p> 
 <h2 align="center">A passionate full stack web developer from India <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="29"> </h2>
 
 - I am a full stack web developer. 
