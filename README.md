@@ -27,6 +27,7 @@
 **🎓About Me**:
 
 - 👉 I'm currently learning **MERN Stack** and **DSA**
+- 3⭐on HackerRank in Java
 - 3⭐on HackerRank in python
 - 4⭐on HackerRank in C
 
