@@ -32,7 +32,7 @@
 - 4⭐on HackerRank in C
 
 - ✍  Reach me on **<a href="https://www.linkedin.com/in/shubham-bhoite98/" target="_blank" >LinkedIn</a>**
-- ✅  Reach me on **<a href="https://www.instagram.com/official_shubhya_96k/" target="_blank" >Instagram</a>**
+
 
 <br/>
 <br/>
