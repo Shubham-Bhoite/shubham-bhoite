@@ -3,8 +3,8 @@
 </p> 
 <h2 align="center">A passionate full stack web developer from India <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="29"> </h2>
 
-- I am a full stack web developer. 
-- I am skilled in C, Java, Python.
+- I am a Full stack web developer. 
+- I am skilled in Java, Python.
 - I am also skilled in HTML, CSS, Javascript. I am good in data structure and algorithms.
 - I learned a lot from the open-source community.
 
@@ -29,7 +29,7 @@
 - 👉 I'm currently learning **MERN Stack** and **DSA**
 - 4⭐on HackerRank in Java
 - 3⭐on HackerRank in python
-- 4⭐on HackerRank in C
+
 
 - ✍  Reach me on **<a href="https://www.linkedin.com/in/shubham-bhoite98/" target="_blank" >LinkedIn</a>**
 
