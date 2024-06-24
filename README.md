@@ -3,9 +3,9 @@
 ================================================================================================================================
 
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FShubham-Bhoite%2Fshubham-bhoite%2Fedit%2Fmain%2FREADME.md&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
-<h2 align="center">A passionate full stack web developer from India <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="29"> </h2>
+<h2 align="center">A passionate Full Stack Java Developer from India <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="29"> </h2>
 
-- I am a Full stack web and Java developer. 
+- I am a Full stack Java developer. 
 - I am skilled in Java, Python.
 - I am also skilled in HTML, CSS, Javascript & React. I am good in data structure and algorithms.
 - I learned a lot from the open-source community.
