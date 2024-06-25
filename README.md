@@ -6,7 +6,7 @@
 <h2 align="center">A passionate Full Stack Java Developer from India <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="29"> </h2>
 
 - I am a Full stack Java developer. 
-- I am skilled in Java, Python.
+- I am skilled in Java , Spring, SpringBoot, Hibernate, JDBC, MySQL.
 - I am also skilled in HTML, CSS, Javascript & React. I am good in data structure and algorithms.
 - I learned a lot from the open-source community.
 
