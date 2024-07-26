@@ -7,7 +7,7 @@
 
 - I am a Full stack Java developer. 
 - I am skilled in Java , Spring, SpringBoot, Hibernate, Servlet, JDBC, MySQL.
-- I am also skilled in HTML, CSS, Javascript & React. I am good in data structure and algorithms.
+- I am also skilled in HTML, CSS, Javascript & Angular. I am good in Data structure and Algorithms.
 - I learned a lot from the open-source community.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
