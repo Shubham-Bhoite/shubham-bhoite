@@ -27,7 +27,7 @@
  ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> 
 **🎓About Me**:
 
-- 🌱 I’m currently learning DSA with Java and Full stack web development
+- 🌱 I’m currently learning DSA with Java and J2EE
 - 4⭐on HackerRank in Java
 - 3⭐on HackerRank in python
 
