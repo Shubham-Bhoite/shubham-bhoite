@@ -5,7 +5,7 @@
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FShubham-Bhoite%2Fshubham-bhoite%2Fedit%2Fmain%2FREADME.md&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 <h2 align="center">A passionate Full Stack Java Developer from India <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="29"> </h2>
 
-- I am a Java developer. 
+- I am a Java Developer. 
 - I am skilled in Java , Spring, Hibernate, Servlet, JSP, JDBC, MySQL.
 - I am also skilled in HTML, CSS, Javascript & Angular. I am good in Data structure and Algorithms.
 - I learned a lot from the open-source community.
@@ -13,7 +13,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
    <p align="center" color:"red">
  <a>
-          <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=23&duration=3000&pause=500&color=3CE0F7&vCenter=true&width=600&lines=Front-end web developer;Full+Stack+Java+Developer;1.5%2B%20years of coding experience;Always learning new things...."></a>
+          <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=23&duration=3000&pause=500&color=3CE0F7&vCenter=true&width=600&lines=Front-end Developer;Full+Stack+Java+Developer;1.5%2B%20years of coding experience;Always learning new things...."></a>
       </p>
        
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
