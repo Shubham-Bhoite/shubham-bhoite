@@ -6,8 +6,8 @@
 <h2 align="center">A passionate Full Stack Java Developer from India <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="29"> </h2>
 
 - I am a Java Developer. 
-- I am skilled in Java , SpringBoot, Hibernate, Servlet, JSP, JDBC, MySQL, JSP.
-- I am also skilled in HTML, CSS, Javascript & Angular. I am good in Data structure and Algorithms.
+- I am skilled in Java , SpringBoot, Hibernate, Servlet, JSP, JDBC, MySQL.
+- I am also skilled in HTML, CSS, Bootstrap, Javascript & Angular. I am good in Data structure and Algorithms.
 - I learned a lot from the open-source community.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
