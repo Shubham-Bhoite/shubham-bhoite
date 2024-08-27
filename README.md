@@ -7,8 +7,8 @@
 
 - I am a Java Developer. 
 - I am skilled in Java , SpringBoot, Hibernate, Servlet, JSP, JDBC, MySQL.
-- I am also skilled in HTML, CSS, Bootstrap, Javascript & Angular. I am good in Data structure and Algorithms.
-- I learned a lot from the open-source community.
+- I am also skilled in HTML, CSS, Bootstrap, JavaScript & Angular. I am good in Data Structure and Algorithms.
+- I learned a lot from the Open-Source community.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
    <p align="center" color:"red">
