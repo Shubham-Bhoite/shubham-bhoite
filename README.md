@@ -3,11 +3,12 @@
 ================================================================================================================================
 
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FShubham-Bhoite%2Fshubham-bhoite%2Fedit%2Fmain%2FREADME.md&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
-<h2 align="center">A Passionate Full Stack Java Developer From India <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="29"> </h2>
+<h2 align="center">🚀 Full Stack Java Developer | Crafting Scalable Web Applications | Open-Source Enthusiast <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="29"> </h2>
 
 - I am a Java Developer. 
 - I am skilled in Java , SpringBoot, Hibernate, Servlet, JSP, JDBC, MySQL.
-- I am also skilled in HTML, CSS, Bootstrap, JavaScript & Angular. I am good in Data Structure and Algorithms.
+- I am also skilled in HTML, CSS, Bootstrap, JavaScript & Angular.
+- I am good in Data Structure and Algorithms.
 - I learned a lot from the Open-Source community.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -27,7 +28,9 @@
   
 **🎓About Me**:
 
-- 🌱 I’m currently learning DSA with Java.
+- 🌱 Currently exploring **Cloud & DevOps**  
+- 🎯 Solving DSA problems in **Java & Python**  
+- 👨‍💻 Open Source Contributor 
 - 4⭐on HackerRank in Java
 - 3⭐on HackerRank in python
 
