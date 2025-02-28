@@ -6,8 +6,8 @@
 <h2 align="center">🚀 Full Stack Java Developer | Crafting Scalable Web Applications | Open-Source Enthusiast <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="29"> </h2>
 
 - I am a Java Developer. 
-- I am skilled in Java , SpringBoot, Hibernate, Servlet, JSP, JDBC, MySQL.
-- I am also skilled in HTML, CSS, Bootstrap, JavaScript & Angular.
+- I am skilled in Java , SpringBoot, Hibernate, Servlet, JSP, JDBC, MySQL, Azure.
+- I am also skilled in HTML, CSS, Bootstrap, TypeScript, JavaScript & Angular.
 - I am good in Data Structure and Algorithms.
 - I learned a lot from the Open-Source community.
 
