@@ -31,8 +31,8 @@
 - 🌱 Currently exploring **Cloud & DevOps**  
 - 🎯 Solving DSA problems in **Java & Python**  
 - 👨‍💻 Open Source Contributor 
-- 4⭐on HackerRank in Java
-- 3⭐on HackerRank in python
+- 4⭐on HackerRank in **Java**
+- 3⭐on HackerRank in **python**
 
 
 - ✍  Reach me on **<a href="https://www.linkedin.com/in/shubham-bhoite98/" target="_blank" >LinkedIn</a>**
@@ -89,6 +89,11 @@
   <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="40" alt="Google Chrome logo" />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
+<img width="12" />
+
 
 </div>
 
