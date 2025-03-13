@@ -7,7 +7,7 @@
 
 - I am a Java Developer. 
 - I am skilled in Java , SpringBoot, Hibernate, Servlet, JSP, JDBC, MySQL, Azure.
-- I am also skilled in HTML, CSS, Bootstrap, TypeScript, JavaScript & Angular.
+- I am also skilled in HTML, CSS, Bootstrap, TypeScript, JavaScript, Angular & Postman.
 - I am good in Data Structure and Algorithms.
 - I learned a lot from the Open-Source community.
 
