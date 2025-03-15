@@ -34,6 +34,7 @@
 - 4⭐on HackerRank in **Java**
 - 3⭐on HackerRank in **python**
 - ** <a href="https://leetcode.com/u/Shubham-Bhoite/" target="_blank" >LeetCode</a>**
+- ** <a href="https://www.geeksforgeeks.org/user/shubhambhoite21052002/" target="_blank" >GeeksforGeeks</a>**
 
 - ✍  Reach me on **<a href="https://www.linkedin.com/in/shubham-bhoite98/" target="_blank" >LinkedIn</a>**
 
